@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **pytorch, genai-processors, raylib**
 
-- 🌐 You can visit my website with [about-suptim.vercel.app](about-suptim.vercel.app)
+- 🌐 You can visit my website with [about-suptim.vercel.app](https://about-suptim.vercel.app)
 
 - 📫 How to reach me **suppanut.new@gmail.com**
 
