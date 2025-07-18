@@ -35,7 +35,7 @@
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="raylib" width="40" height="40"/> </a>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/suptim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi6.png?v=6" height="50" width="210" alt="suptim" /></a></p><br><br>
+<p><a href="https://ko-fi.com/suptim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi6.png?v=6" height="50" width="210" alt="suptim" /></a></p><br><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neiwkai&show_icons=true&locale=en&layout=compact" alt="neiwkai" /></p>
 
